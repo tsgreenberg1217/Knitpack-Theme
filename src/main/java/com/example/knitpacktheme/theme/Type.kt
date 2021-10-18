@@ -14,7 +14,8 @@ val Typography = Typography(
 //        fontFamily = FontFamily.Default,
         fontFamily = FontFamily(Font(R.font.amiko_regular)),
         fontWeight = FontWeight.Normal,
-        fontSize = 16.sp
+        fontSize = 16.sp,
+        color = Mulberry_Primary
     )
 
     /* Other default text styles to override
